@@ -1,0 +1,67 @@
+body {
+  text-align: center;
+  color: aliceblue;
+}
+.center {
+  color: white;
+  border: 1px solid white;
+    margin-left:10px;
+  margin-right: 10px;
+  display: inline-block;
+}
+.div{
+  padding: px px 0px px;
+  background-color: black;
+  color: white;
+  display: inline-block;
+}
+.divfixed {
+    top: 0%;
+    width: 100%;
+    justify-content: center;
+      background-color: black;
+      color: rgb(255, 255, 255);
+      position:fixed;
+      text-align:center;
+
+ }
+ .large {
+  height: 1000px;
+
+  background-image: url('images/carcel.jpg');
+}
+table{
+  border:  1px solid red;
+ margin-right: auto;
+ margin-left: auto;
+
+}
+
+th, td {
+  border:  1px solid red;
+}
+.center {
+  color: white;
+  border: 1px solid blue;
+  margin-left: 10px;
+  margin-right: 10px;
+display: inline-block;
+}
+.divfixe {
+  top: 80%;
+  width: 100%;
+  justify-content: center;
+    background-color: black;
+    color: rgb(255, 255, 255);
+    position:fixed;
+    text-align:center;
+}
+.divfix {
+  top: 96%;
+  width: 100%;
+  justify-content: center;
+    background-color: black;
+    color: rgb(255, 255, 255);
+    position:fixed;
+    text-align:center;
+}
